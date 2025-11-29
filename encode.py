@@ -2,7 +2,7 @@
 # encode.py - 4096/2048k test
 # MIT LICENSE
 # MESUT ERTURHAN
-#https://github.com/piyxu/4096bits-to-2048-rank-4bit-metadata/
+# https://github.com/piyxu/4096bits-to-2048-rank-4bit-metadata/
 # -------------------------------------------------
 
 from math import comb
@@ -106,6 +106,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
